@@ -33,10 +33,10 @@ The task is to find and evaluate and test ETL solutions and document the process
 ![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/Tableau/Final%20ETL%20pipeline.png)
 
 # Authors
-1. [Shiv Jitendra Mistry](https://github.com/shivmistry605) (1118337)
-1. [Hangzhou Wu](https://github.com/HanzoeWU) (1018104)
-1. [Jiahui Zhu](https://github.com/zjhbright) (1131307)
-1. [Kanav Sood](https://github.com/kanav-1390) (1057606)
+* [Shiv Jitendra Mistry](https://github.com/shivmistry605) (1118337)
+* [Hangzhou Wu](https://github.com/HanzoeWU) (1018104)
+* [Jiahui Zhu](https://github.com/zjhbright) (1131307)
+* [Kanav Sood](https://github.com/kanav-1390) (1057606)
 
 
 
