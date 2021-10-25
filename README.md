@@ -5,13 +5,33 @@ The goal of this project is to find a semi-automated data entry process which he
 
 The task is to find and evaluate and test ETL solutions and document the process of using it with sample datasets provided by Lithodat.
 
+## Client Requirements
+* Only Software based ETL tools to be tested as the end solution to be used by geo-scientists
+* Software tools should have user-friendly UI/UX
+* Software tools should pass the ETL Tests
+
+# Sample (banker) Dataset
+![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/util/banker%20er%20diagram.png)
+
+# Client Dataset
+![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/util/client%20ER%20diagram.png)
+
+
 # Pentaho
 ## Flow created for Sample (Banker) Dataset
 ![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/Pentaho/Pentaho%20banker%20dataset%20flow.png)
 
 ## Flow created for Client Dataset
+![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/Pentaho/Pentaho%20client%20dataset%20flow.png)
 
 # Tableau-Prep
 ## Flow created for Client Dataset
+![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/Tableau/Tableau%20prep%20client%20flow%20old.png)
+
 
 # Final ETL Pipeline
+![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/Tableau/Final%20ETL%20pipeline.png)
+
+# Authors
+
+Data Science Project 2021 Group 3, The University of Melbourne
