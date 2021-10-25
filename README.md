@@ -33,5 +33,11 @@ The task is to find and evaluate and test ETL solutions and document the process
 ![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/Tableau/Final%20ETL%20pipeline.png)
 
 # Authors
+[Shiv Jitendra Mistry](https://github.com/shivmistry605)
+[Hangzhou Wu](https://github.com/HanzoeWU)
+[Jiahui Zhu](https://github.com/zjhbright)
+[Kanav Sood](https://github.com/kanav-1390)
+
+
 
 Data Science Project 2021 Group 3, The University of Melbourne
