@@ -5,3 +5,13 @@ The goal of this project is to find a semi-automated data entry process which he
 
 The task is to find and evaluate and test ETL solutions and document the process of using it with sample datasets provided by Lithodat.
 
+# Pentaho
+## Flow created for Sample (Banker) Dataset
+![Test Image 4](https://github.com/shivmistry605/MAST90106-Data-Science-Project-Group-3/blob/main/Pentaho/Pentaho%20banker%20dataset%20flow.png)
+
+## Flow created for Client Dataset
+
+# Tableau-Prep
+## Flow created for Client Dataset
+
+# Final ETL Pipeline
